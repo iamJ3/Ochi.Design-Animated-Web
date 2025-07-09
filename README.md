@@ -4,7 +4,8 @@ A sleek animated web experience inspired by the [Ochi Design](https://ochi-desig
 
 ## 📌 images
 ![image](https://github.com/user-attachments/assets/dbdebcc4-7d4b-47b8-8bb3-67f421853e60)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/86560f23-fc9b-475d-a245-26af3414504c)
+
 
 
 ## 📌 Features
