@@ -1,8 +1,41 @@
-# React + Vite
+# Ochi Design Clone ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek animated web experience inspired by the [Ochi Design](https://ochi-design-animated-web.vercel.app/) website.
 
-Currently, two official plugins are available:
+## 📌 images
+![image](https://github.com/user-attachments/assets/dbdebcc4-7d4b-47b8-8bb3-67f421853e60)
+![Uploading image.png…]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## 📌 Features
+
+- Modern, minimalist UI with smooth animations
+- Framer Motion for fluid transitions
+- Next.js for fast SSR and static generation
+- Styled with Tailwind CSS
+- Fully responsive design
+
+## 🛠️ Tech Stack
+
+- **Framework:** React.js
+- **Animations:** Framer Motion
+- **Styling:** Tailwind CSS
+- **Deployment:** Vercel
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/ochi-design-clone.git
+
+# Navigate into the project
+cd ochi-design-clone
+
+# Install dependencies
+npm install
+
+# Run the dev server
+npm run dev
+
+# Open your browser
+http://localhost:3000
